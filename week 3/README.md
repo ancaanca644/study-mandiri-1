@@ -1,5 +1,5 @@
 ### 📝 2 Oktober 2026
-* **Agenda Utama:** Pendalaman materi secara mandiri dan revisi PPT sebelum presentasi.
+* **Agenda Utama:** Pendalaman materi secara mandiri dan mulai menyusun PPT untuk laporan mingguan.
 * **Laporan Progress:**
   * [x] Intro MFL
   * [x] Pembacaan ideal sensor pada suatu medan yang bocor
